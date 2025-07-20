@@ -1,4 +1,4 @@
-# 🤖 Kit educativo para talleres de robótica
+<!--# 🤖 Kit educativo para talleres de robótica
 
 Un mini kit educativo (físico o simulado) diseñado para enseñar robótica básica a principiantes. Ideal para talleres, cursos introductorios o actividades de divulgación científica.
 
@@ -36,7 +36,7 @@ Brindar una herramienta accesible, clara y modular para enseñar conceptos clave
 - Guías paso a paso 📝
 - Código de ejemplo 💻
 - Modelos simulados o esquemas de hardware ⚙️
-- Actividades prácticas 🎮
+- Actividades prácticas 🎮-->
 
 ## 📌 Estado
 
